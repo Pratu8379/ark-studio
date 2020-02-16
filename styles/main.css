@@ -120,12 +120,13 @@ body {
 
 /* buttons */
 
-.wrapper {
+.services_wrapper {
   background-color: #f0f0f0;
   width: 900px;
   margin: 0 auto;
   padding: 60px 0;
 }
+
 
 .section-heading {
   text-align: center;
@@ -133,6 +134,13 @@ body {
   font-weight: 700;
   padding-bottom: 80px;
   color: #444;
+}
+
+.testimonials_wrapper {
+  background-color: #f0f0f0;
+  width: 900px;
+  margin: 0 auto;
+  padding: 60px 0;
 }
 
 .testimonials .section-heading {
